@@ -15,6 +15,6 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
 <a href="https://stackoverflow.com/users/17649944/amiran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 
  
- 📊 &nbsp;**This week I spent my time on**
-![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=amiko&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+📊 &nbsp;**This week I spent my time on**
 
+![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=amiko&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
