@@ -4,10 +4,7 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
 - 🔭 I’m currently learning TypeScript.
 - 🌱 I’m currently honing my skills in React on TypeScript
 - 💬 Ask me about anything related to Javascript/Typescript or React/NodeJs
-- 📫  How to reach me: amiko1
 -->
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bilaonov.visitor-badge&left_color=black&right_color=blue)
 
 
 🔗 &nbsp;**Connect with me**
