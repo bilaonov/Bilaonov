@@ -18,3 +18,11 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
 📊 &nbsp;**This week I spent my time on**
 
 ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=amiko&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+
+ 
+ <details>
+  <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
+  <br/>
+  <p align="left"> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </p>
+
+</details>
