@@ -7,7 +7,7 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
 - 📫  How to reach me: amiko1
 -->
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bilaonov.visitor-badge&left_color=black&right_color=white)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=bilaonov.visitor-badge&left_color=black&right_color=blue)
 
 
 🔗 &nbsp;**Connect with me**
