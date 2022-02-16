@@ -21,7 +21,7 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
 
  
  <details>
-  <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+  <h3>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</h3>
   <br/>
   <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
