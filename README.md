@@ -17,5 +17,5 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
  
  📊 &nbsp;**This week I spent my time on**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bilaonov)](https://github.com/anuraghazra/github-readme-stats)
 
