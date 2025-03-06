@@ -79,10 +79,11 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
 
 <picture>
   
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bilaonov/Bilaonov/blob/output/github-snake-dark.svg" >
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bilaonov/bilaonov/output/github-snake-dark.svg" >
 
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bilaonov/Bilaonov/blob/output/github-snake.svg" />
-  <img src="https://github.com/bilaonov/Bilaonov/blob/output/github-snake.svg" alt="Snake animation" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bilaonov/bilaonov/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bilaonov/bilaonov/output/snake.svg" alt="Snake animation" />
+
 
 </picture>
 
