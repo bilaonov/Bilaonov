@@ -77,7 +77,7 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bilaonov/bilaonov/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/bilaonov/Bilaonov/blob/output/github-snake.svg" alt="Snake animation" />
 
 ###
 
