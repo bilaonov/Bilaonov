@@ -78,9 +78,8 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
 <br clear="both">
 
 <picture>
-  ![snake gif](https://github.com/bilaonov/bilaonov/blob/output/github-snake-dark.svg)
-<!--   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bilaonov/bilaonov/output/github-snake-dark.svg" >
- -->
+  
+  <source media="(prefers-color-scheme: dark)" srcset="![snake gif](https://github.com/bilaonov/Bilaonov/blob/output/github-snake-dark.svg" >
 <!--   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bilaonov/bilaonov/output/github-snake.svg" /> -->
   <img src="https://raw.githubusercontent.com/bilaonov/bilaonov/output/snake.svg" alt="Snake animation" />
 
