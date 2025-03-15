@@ -4,7 +4,6 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
 - 🌱 I’m currently honing my skills in React on TypeScript
 - 💬 Ask me about anything related to Javascript/Typescript or React/NodeJs
 -->
-
 ###
 
 <div align="left">
