@@ -47,7 +47,7 @@ I'm Amiran Bilaonov ( See my Portfolio ) , a Full Stack Web Developer 🚀 from 
 ###
 
 <div align="left">
-  <a href="https://t.me/am6ikrhan" target="_blank">
+  <a href="https://t.me/am6irkhan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
   <a href="amiranbilaonov@gmail.com" target="_blank">
